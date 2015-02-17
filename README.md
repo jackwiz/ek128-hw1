@@ -5,7 +5,7 @@ print("Hello",name1,name2)
 # number2
 Number=input('pick a number')
 Final=int(Number)
-print((Final+3)*2-4-(Final*2)+3)
+print(((Final+3)*2-4-(Final*2)+3)
 # number 3
 Temp=input('What is the Temperature?')
 Temp1=int(Temp)
